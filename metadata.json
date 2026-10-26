@@ -1,0 +1,6 @@
+{
+  "name": "Nononick Content Studio",
+  "description": "استودیوی جامع تولید محتوا، سئو و بازآفرینی محتوای وب و شبکه‌های اجتماعی برای برند Nononick",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
